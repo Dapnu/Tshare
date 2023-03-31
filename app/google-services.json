@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453443489523",
+    "project_id": "tshare-95deb",
+    "storage_bucket": "tshare-95deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453443489523:android:458f646ae167244f58f186",
+        "android_client_info": {
+          "package_name": "com.DRIF.tshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453443489523-ttu3lt175svof09ombq30q4nh1gcntpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpl1ddkOhQa7_OxV2W458C9WGIh7GUfAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453443489523-ttu3lt175svof09ombq30q4nh1gcntpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
